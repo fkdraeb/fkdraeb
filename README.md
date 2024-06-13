@@ -1,5 +1,7 @@
 <h2 align="left">Hi ! I'm Tiago Marques👋</h2>
 
+<p> Java backend developer specializing in interoperability with HL7 and FHIR. Building robust systems with SpringBoot and always striving for efficient, seamless solutions.</p>
+
 ###
 
 <div align="center">
